@@ -5,7 +5,7 @@
 .center {
     background-color: blue;
     color: yellow;
-    text-align: center;
+    text-align: center; 
 }
 .para-container p {
     margin: 2%;
